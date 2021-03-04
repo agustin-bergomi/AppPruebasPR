@@ -1,2 +1,4 @@
+include ':Modulo2'
+include ':modulo1'
 include ':app'
 rootProject.name = "AppPruebasPR"
