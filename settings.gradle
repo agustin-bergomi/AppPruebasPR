@@ -1,3 +1,4 @@
+include ':Modulo3'
 include ':Modulo2'
 include ':modulo1'
 include ':app'
